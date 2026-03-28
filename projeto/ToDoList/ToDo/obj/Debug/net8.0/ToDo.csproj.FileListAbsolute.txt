@@ -1,0 +1,15 @@
+C:\Trabalho C#\projeto\ToDoList\ToDo\bin\Debug\net8.0\ToDo.exe
+C:\Trabalho C#\projeto\ToDoList\ToDo\bin\Debug\net8.0\ToDo.deps.json
+C:\Trabalho C#\projeto\ToDoList\ToDo\bin\Debug\net8.0\ToDo.runtimeconfig.json
+C:\Trabalho C#\projeto\ToDoList\ToDo\bin\Debug\net8.0\ToDo.dll
+C:\Trabalho C#\projeto\ToDoList\ToDo\bin\Debug\net8.0\ToDo.pdb
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ToDo.dll
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ToDo.pdb
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
+C:\Trabalho C#\projeto\ToDoList\ToDo\obj\Debug\net8.0\ref\ToDo.dll
