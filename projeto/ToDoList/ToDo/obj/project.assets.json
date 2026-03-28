@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pichau\\.nuget\\packages\\": {}
+    "C:\\Users\\AndrF\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Trabalho-Csharp\\projeto\\ToDoList\\ToDo\\ToDo.csproj",
+      "projectUniqueName": "C:\\Trabalho C#\\projeto\\ToDoList\\ToDo\\ToDo.csproj",
       "projectName": "ToDo",
-      "projectPath": "C:\\Users\\Pichau\\Trabalho-Csharp\\projeto\\ToDoList\\ToDo\\ToDo.csproj",
-      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Trabalho-Csharp\\projeto\\ToDoList\\ToDo\\obj\\",
+      "projectPath": "C:\\Trabalho C#\\projeto\\ToDoList\\ToDo\\ToDo.csproj",
+      "packagesPath": "C:\\Users\\AndrF\\.nuget\\packages\\",
+      "outputPath": "C:\\Trabalho C#\\projeto\\ToDoList\\ToDo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\AndrF\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
